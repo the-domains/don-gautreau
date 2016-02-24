@@ -1,0 +1,28 @@
+name: Don Gautreau
+favicon: null
+layout_spectrum: 0.13025704305619001
+typography_spectrum: 0.2281986977905035
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8470448548905551
+  lightness: 0.8545047563966364
+  saturation: 0.3719093797262758
+  rhythmicContrast: 0.012015971122309566
+purpose: []
