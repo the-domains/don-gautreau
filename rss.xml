@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[My Life]]></title>
-        <description><![CDATA[My Life]]></description>
+        <title><![CDATA[Don Gautreau - My Life]]></title>
+        <description><![CDATA[Don Gautreau - My Life]]></description>
         <link>https://thegrid.ai/don-gautreau/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 00:09:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 00:16:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/don-gautreau/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dd852dc-3c6c-4876-8db0-fc1420d38df1.JPG">]]></description>
             <link>https://thegrid.ai/don-gautreau/054ea6c9-0744-472e-b956-9c450289a38a/index.html</link>
             <guid isPermaLink="false">054ea6c9-0744-472e-b956-9c450289a38a</guid>
-            <pubDate>Thu, 25 Feb 2016 00:09:22 GMT</pubDate>
+            <pubDate>Thu, 25 Feb 2016 00:16:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
