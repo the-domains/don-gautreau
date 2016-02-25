@@ -1,4 +1,4 @@
-name: Don Gautreau
+name: Don Gautreau - My Life
 favicon: null
 layout_spectrum: 0.25
 typography_spectrum: 0.2281986977905035
@@ -24,6 +24,6 @@ color:
     - '#FAD8D6'
   brandStrength: 0.8470448548905551
   lightness: 0.8545047563966364
-  saturation: 0.3719093797262758
+  saturation: 0.375
   rhythmicContrast: 0.012015971122309566
 purpose: []
